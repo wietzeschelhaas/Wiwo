@@ -1,0 +1,110 @@
+
+UI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+scoreBar
+  rotate: false
+  xy: 1, 905
+  size: 748, 88
+  orig: 748, 88
+  offset: 0, 0
+  index: -1
+settingGear
+  rotate: false
+  xy: 1, 621
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 1, 337
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+playButtonDown
+  rotate: false
+  xy: 285, 653
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 1, 103
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+resumePlay
+  rotate: false
+  xy: 285, 431
+  size: 210, 220
+  orig: 210, 220
+  offset: 0, 0
+  index: -1
+exitToMenu
+  rotate: false
+  xy: 537, 705
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+pauseWindow
+  rotate: false
+  xy: 751, 871
+  size: 266, 122
+  orig: 266, 122
+  offset: 0, 0
+  index: -1
+again
+  rotate: false
+  xy: 737, 671
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+checkmark
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+brickRed
+  rotate: false
+  xy: 285, 350
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+brickGreen
+  rotate: false
+  xy: 937, 790
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+brick
+  rotate: false
+  xy: 366, 350
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 537, 655
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
